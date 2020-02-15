@@ -3,7 +3,7 @@ import React from 'react';
 
 function Header(){
     return(
-      <div id="carousel-example-generic" class="carousel parallax parallax_banner2  slide" data-ride="carousel">
+      <div id="carousel-example-generic" class="carousel  slide" data-ride="carousel">
       {/* <!-- Indicators --> */}
       <ol class="carousel-indicators">
         <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -14,7 +14,7 @@ function Header(){
       {/* <!-- Wrapper for slides --> */}
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img src="images/DSC_1423.jpg" alt="..." />
+          <img src="images/cihub.jpg" alt="..." />
           <div class="carousel-caption">
             {/* ... */}
           </div>
