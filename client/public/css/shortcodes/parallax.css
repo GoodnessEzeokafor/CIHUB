@@ -180,7 +180,6 @@ h2.bg-heading
  @media (max-width: 762px) {
 .parallax_banner2 {
 	position: relative;
-	background-image: url(../../images/parallax/abstract-blackboard-bulb-chalk-355948.jpg);
 	height: auto;
 }
 }
@@ -335,3 +334,10 @@ h2.bg-heading
 	position: absolute;
 	background: url(../../images/parallax/gridtile.png) repeat;
 }
+
+
+@media (max-width: 400px) {
+	.carousel{
+		margin-top: 49px;
+	  }
+	}
