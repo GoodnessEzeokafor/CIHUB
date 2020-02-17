@@ -13,7 +13,7 @@ return(
                <div id="navbar" class="collapse navbar-collapse">
                   <ul class="nav navbar-nav navbar-right ">
                      <li class="active"><a href="#home">Home</a></li>
-                     <li><a href="#features">Features</a></li>
+                     {/* <li><a href="#features">Features</a></li> */}
                      <li><a href="#about">About</a></li>
                      <li><a href="#services">Services</a></li>
                      <li><a href="#pricing">Pricing</a></li>

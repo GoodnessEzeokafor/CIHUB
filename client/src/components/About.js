@@ -44,19 +44,47 @@ function About(){
                <div class="two-cols-description-text wow fadeIn" data-wow-delay="0.50s">
                   <div class="two-cols-description-text-inner">
                      <div class="heading">
-                        <h2 class="light-font">WE USE STRATEGY AND DESIGN</h2>
-                        <h3 class="light-font subheading">Flannel ennui narwhal, craft beer twee Vice plaid authentic synth..</h3>
+                        <h2 class="light-font">
+                           Live In A Creative Space Work In A Creative Space
+                        </h2>
+                        <p class="light-font ">
+                           In this hub we proffer solutions to the six key problems facing the educational sector today
+
+                           {/* In this hub, we intend to proffer solu ons to the six key problems */}
+                           {/* facing the educa onal sector today */}
+                        </p>
                      </div>
-                     <p> Cum sociis natoque penatibus et magnis dis parturient montes, nascetur mus.
+                     <ul>
+                        <li className="light-font" style={{color:"white", fontSize:"20px"}}>
+                        Industrial age values
+                        </li>
+                        <li className="light-font"  style={{color:"white", fontSize:"20px"}}>
+                         Lack of autonomy and control
+                        </li>
+                        <li className="light-font" style={{color:"white", fontSize:"20px"}}>
+                         Inauthentic learning
+                        </li>
+                        <li className="light-font" style={{color:"white", fontSize:"20px"}}>
+                        No room for passion and interest
+                        </li>
+                        <li className="light-font" style={{color:"white", fontSize:"20px"}}>
+                        Differences in how we learn
+                        </li>
+                        <li className="light-font" style={{color:"white", fontSize:"20px"}}>
+                        Lecturing.
+                        </li>
+                        
+                     </ul>
+                     {/* <p> Cum sociis natoque penatibus et magnis dis parturient montes, nascetur mus.
                         Aliquam ullamcorper. dis parturient montes, nascetur mus.
                         Aliquam ullamcorper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur mus.
                         Aliquam ullamcorper. dis parturient montes, nascetur mus.
                         Aliquam ullamcorper. dis parturient montes, nascetur mus.
-                     </p>
+                     </p> */}
                   </div>
                </div>
                <div class="two-cols-description-image wow fadeIn" data-wow-delay="0.50s">
-                  <img src="/images/grayscale-photo-of-woman-facing-macbook-1181257.jpg"  alt="" />
+                  <img src="/images/two-woman-sitting-on-sofa-while-using-laptops-1181274.jpg"  alt="" />
                </div>
             </div>
          </div>

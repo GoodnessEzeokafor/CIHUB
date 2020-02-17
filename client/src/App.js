@@ -15,7 +15,7 @@ export default class App extends Component {
 <div class="wrapper">
 	<Navbar />
 	<Header />	 
-	<Features />
+	{/* <Features /> */}
 	<About />
   <Services />
   <Pricing />
