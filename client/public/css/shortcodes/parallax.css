@@ -336,8 +336,10 @@ h2.bg-heading
 }
 
 
-@media (max-width: 400px) {
+@media (max-width: 440px) {
 	.carousel{
-		margin-top: 49px;
+		margin-top: 50px;
+		/* height: 100vh;
+		 */
 	  }
 	}

@@ -33,12 +33,14 @@ function Service(){
                           </div>
                           <div class="col-sm-4">
                              <div class="icon-box">
-                                <i class="fa fa-paint-brush"></i>
-                                <h3 class="title-sm text-theme-sm text-theme">Incubator</h3>
+                                <i class="fa fa-database"></i>
+                                <h3 class="title-sm text-theme-sm text-theme">Data Science</h3>
                                 <p>
                                     {/* Lorem ipsum dolor sit amet, consectetur adipiscing 
                                    Assure polite his really and others figure though. 
                                    Day age advantages end sufficient eat expression travelling. */}
+                                   Learn how real companies use data science to make products and day to day operations
+                                   better.
                                  </p>
                              </div>
                           </div>
@@ -49,12 +51,16 @@ function Service(){
 
 
 
-
+{/* <i class="fas fa-robot    "></i>
+mac */}
                           <div class="col-sm-4">
                              <div class="icon-box">
-                                <i class="fa fa-mobile-phone"></i>
-                                <h3 class="title-sm text-theme-sm text-theme">Mobile App</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing Assure polite his really and others figure though. Day age advantages end sufficient eat expression travelling.</p>
+                                <i class="fa fa-android"></i>
+                                <h3 class="title-sm text-theme-sm text-theme">Robotics</h3>
+                                <p>
+                                   Not only do our robotics help program helps to establish science, technology, engineering and maths concept,
+                                   the also work to build on students team  building skills as the work to complete fun challenges.
+                                 </p>
                              </div>
                           </div>
                        </div>
@@ -63,22 +69,32 @@ function Service(){
                           <div class="col-sm-4">
                              <div class="icon-box">
                                 <i class="fa fa-bar-chart-o"></i>
-                                <h3 class="title-sm text-theme-sm text-theme">Search Engine Optimization</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing Assure polite his really and others figure though. Day age advantages end sufficient eat expression travelling.</p>
+                                <h3 class="title-sm text-theme-sm text-theme">Artificial Intelligence</h3>
+                                <p>
+                                 This course will introduce you to the basic of AI.Topics include machine learning,
+                                 probablistic reasoning, robotics ,computer vision and natural language processing
+                              </p>
                              </div>
                           </div>
                           <div class="col-sm-4">
                              <div class="icon-box">
                                 <i class="fa fa-cogs"></i>
-                                <h3 class="title-sm text-theme-sm text-theme">Customizable</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing Assure polite his really and others figure though. Day age advantages end sufficient eat expression travelling.</p>
+                                <h3 class="title-sm text-theme-sm text-theme">Blockchain</h3>
+                                <p>
+                                 Use Aeternity Smart contract language to write scalable 
+                                 smart contracts and build decentralized applications
+                              </p>
                              </div>
                           </div>
                           <div class="col-sm-4">
                              <div class="icon-box">
                                 <i class="fa fa-paper-plane"></i>
-                                <h3 class="title-sm text-theme-sm text-theme">Great Features</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing Assure polite his really and others figure though. Day age advantages end sufficient eat expression travelling.</p>
+                                <h3 class="title-sm text-theme-sm text-theme">Virtual Reality</h3>
+                                <p>
+                                    This course desigined for people who are new to virtual reality and want 
+                                    to learn about the principle of VR technology including optics, displays, stereopsis, tracking, 
+                                    and major hardware platforms. You don't need any programming experience to get started
+                              </p>
                              </div>
                           </div>
                        </div>
