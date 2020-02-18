@@ -12,40 +12,41 @@ function About(){
                         <h2 class="light-font">Our Burden</h2>
                         {/* <div class="header-strips-two"></div> */}
                         <div class="subheading">
-         <p>
-                        Life is the most difficult exam.
-The history we learn in school doesn’t help us
-define our future.
-Most of us know how to add and subtract and
-not know how to mulply our investments.
-We know how to do mulple choice.
-But we struggle to make decisions.
-We know how to analyze a poet voice.
-But we cant express ourselves with precision.
-We learn about the human body and not how
-to find ourselves
-We learn about the brain but not about mental
-health
-We learn about modes of transport but not
-why travel makes us grow       
-Geography taught us where things were but not
-where Countries wanted to go
-We learn about new languages but not about
-old cultures.
-We learn about only one perspec ve but not
-opposing opinions.
-We learn how to draw but not appreciate art.
-We were always pushed to get to the end but
-never taught how to start.
-We were also taught to get over stuff and not
-how to walk through stuffs.
-We learned about all plants and the cells in
-plant.
-But not the source of our food.
-We learned how to measure distance but not
-the journey within.
-We were told that X is the only place where
-something was missing.               </p> 
+                           <p>
+                              Life is the most difficult exam.
+                              The history we learn in school doesn’t help us
+                              define our future.
+                              Most of us know how to add and subtract and
+                              not know how to mulply our investments.
+                              We know how to do mulple choice.
+                              But we struggle to make decisions.
+                              We know how to analyze a poet voice.
+                              But we cant express ourselves with precision.
+                              We learn about the human body and not how
+                              to find ourselves.
+                              We learn about the brain but not about mental
+                              health.
+                              We learn about modes of transport but not
+                              why travel makes us grow.       
+                              Geography taught us where things were but not
+                              where Countries wanted to go.
+                              We learn about new languages but not about
+                              old cultures.
+                              We learn about only one perspec ve but not
+                              opposing opinions.
+                              We learn how to draw but not appreciate art.
+                              We were always pushed to get to the end but
+                              never taught how to start.
+                              We were also taught to get over stuff and not
+                              how to walk through stuffs.
+                              We learned about all plants and the cells in
+                              plant.
+                              But not the source of our food.
+                              We learned how to measure distance but not
+                              the journey within.
+                              We were told that X is the only place where
+                              something was missing.               
+                           </p> 
  </div>
                         <div class="margin-top-50 text-center"> 
                            <a href="#contact" class="btn-lg btn-blue btn-shadow page-scroll">Get started today</a> </div>
