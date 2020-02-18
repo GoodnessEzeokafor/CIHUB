@@ -18,10 +18,7 @@ function Header(){
         <li data-target="#carousel-example-generic" data-slide-to="8"></li>
         <li data-target="#carousel-example-generic" data-slide-to="9"></li>
         {/* <li data-target="#carousel-example-generic" data-slide-to="10"></li> */}
-        
-
-        
-      </ol>
+       </ol>
     
       {/* <!-- Wrapper for slides --> */}
       <div class="carousel-inner" role="listbox">
