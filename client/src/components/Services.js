@@ -105,7 +105,9 @@ mac */}
                        <div class="row" id="video-section">
                           <div class="col-sm-6 col-sm-offset-3 wow fadeIn" data-wow-delay="0.5s">
                              <div class="video-section-content text-center">
-                                <a href="#" class="video-pop-up"><i class="fa fa-play"></i></a>
+                                <a href="https://www.facebook.com/youngprenuers/videos/794362401044565/?app=fbl" 
+                                 target="_blank"
+                                 class="video-pop-up"><i class="fa fa-play"></i></a>
                                 <div class="video-head">Introducing Video</div>
                                 <div class="video-sub-heading">Check out our video presentation</div>
                              </div> 

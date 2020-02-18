@@ -18,7 +18,7 @@ export default class App extends Component {
 	{/* <Features /> */}
 	<About />
   <Services />
-  <Pricing />
+  {/* <Pricing /> */}
   <Contact />
   <Footer />
   <div class="scroll-up">

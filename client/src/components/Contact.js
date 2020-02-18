@@ -10,7 +10,7 @@ function Contact(){
                      <div class="heading text-center">
                         <h2 class="light-font">Contact</h2>
                         <div class="header-strips-two"></div>
-                        <div class="subheading">At vero eos et accusamus et iusto odio dignissimos</div>
+                        {/* <div class="subheading">At vero eos et accusamus et iusto odio dignissimos</div> */}
                      </div>
                   </div>
                </div>
@@ -52,10 +52,13 @@ function Contact(){
                      <div class="contacDetails">
                         <div class="icon-map"></div>
                         <h3>Contact details</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                        <p> <i class="icon-pin"></i> 15-A Hendon Ave, Mount Albert Auckland, New Zealand</p>
-                        <p> <i class="icon-screen-smartphone"></i> +1800 1234 56789</p>
-                        <p> <i class="icon-envelope-open"></i> support@websitename.com</p>
+                        {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            Suspendisse tincidunt, dui ac porta.Lorem ipsum dolor sit amet, c
+                            onsectetur adipiscing elit. Suspendisse tincidunt, dui ac porta.Lorem
+                             ipsum dolor sit amet, consectetur adipiscing elit.</p> */}
+                        <p> <i class="icon-pin"></i> EYN Technological Center Opposite Plateau State Assembly</p>
+                        <p> <i class="icon-screen-smartphone"></i> +2348107308697</p>
+                        <p> <i class="icon-envelope-open"></i>hubci333@gmail.com</p>
                         <p> <i class="icon-link"></i> www.websitename.com</p>
                      </div>
                   </div>

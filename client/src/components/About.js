@@ -10,9 +10,9 @@ function About(){
                   <div class="col-md-8 col-sm-9 center-block wow fadeIn" data-wow-delay="0.5s">
                      <div class="heading text-center">
                         <h2 class="light-font">Our Burden</h2>
-                        <div class="header-strips-two"></div>
+                        {/* <div class="header-strips-two"></div> */}
                         <div class="subheading">
-
+         <p>
                         Life is the most difficult exam.
 The history we learn in school doesn’t help us
 define our future
@@ -45,10 +45,10 @@ But not the source of our food
 We learned how to measure distance but not
 the journey within
 We were told that X is the only place where
-something was missing                
+something was missing               </p> 
  </div>
                         <div class="margin-top-50 text-center"> 
-                           <a href="#about" class="btn-lg btn-blue btn-shadow page-scroll">Get started today</a> </div>
+                           <a href="#contact" class="btn-lg btn-blue btn-shadow page-scroll">Get started today</a> </div>
                      </div>
                   </div>
                   {/* <!-- /.col -->  */}
@@ -61,17 +61,26 @@ something was missing
                   <div class="col-md-8 col-sm-9 center-block">
                      <div class="heading text-center">
                         <h2 class="light-font">Some interesting facts</h2>
-                        <div class="header-strips-two"></div>
-                        <div class="subheading">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum At vero eos et accusamus et iusto odio At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum At vero eos et accusamus et iusto odio</div>
+                        {/* <div class="header-strips-two"></div> */}
+                        <div class="subheading">
+                           <p>According LinkedIn's global list <b>Blockchain</b> is  the most in-demand  skills for 2020</p>
+                           <p>According to a  report by the McKinsey Global Institute 
+                           <b> Artificial intelligence</b> has the potential to incrementally add 16 percent or 
+                           around $13 trillion by 2030 to current global economic output
+                           </p>
+                           <p>
+                            In the high-adoption scenario, the economic impact of <b>VR/AR</b> is forecast to amount to 29.5 billion U.S. dollars in 2020
+                           </p>
+                        </div>
                      </div>
                   </div>
                   {/* <!-- /.col -->  */}
                </div>
                <div class="row margin-top-50">
-                  <div class="counters col-md-3 col-sm-3"> <span class="counter-icon"><i class="fa fa-gift rounded"></i></span> <span class="counter">3254</span> </div>
-                  <div class="counters col-md-3 col-sm-3"> <span class="counter-icon"><i class="fa fa-download rounded"></i></span> <span class="counter">7068</span> </div>
-                  <div class="counters col-md-3 col-sm-3"> <span class="counter-icon"><i class="fa fa-thumbs-up rounded"></i></span> <span class="counter">5389</span> </div>
-                  <div class="counters col-md-3 col-sm-3"> <span class="counter-icon"><i class="fa fa-comments rounded"></i></span> <span class="counter">9172</span> </div>
+                  {/* <div class="counters col-md-3 col-sm-3"> <span class="counter-icon"><i class="fa fa-gift rounded"></i></span> <span class="counter">3254</span> </div> */}
+                  <div class="counters col-md-4 col-sm-4"> <span class="counter-icon"><i class="fa fa-download rounded"></i></span> <span class="counter">2000</span> </div>
+                  <div class="counters col-md-4 col-sm-4"> <span class="counter-icon"><i class="fa fa-thumbs-up rounded"></i></span> <span class="counter">1500</span> </div>
+                  <div class="counters col-md-4 col-sm-4"> <span class="counter-icon"><i class="fa fa-comments rounded"></i></span> <span class="counter">1000</span> </div>
                </div>
             </div>
          </div>
