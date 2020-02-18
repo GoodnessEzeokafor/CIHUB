@@ -78,7 +78,10 @@ mac */}
                           </div>
                           <div class="col-sm-4">
                              <div class="icon-box">
-                                <i class="fa fa-cogs"></i>
+                                {/* <i class="fa fa-cogs"></i> */}
+                                <i class="fas fa-bitcoin"></i>
+                                {/* <i class="fas fa-coins    "></i> */}
+                                {/* <i class="fa fa-viacoin"></i> */}
                                 <h3 class="title-sm text-theme-sm text-theme">Blockchain</h3>
                                 <p>
                                  Use Aeternity Smart contract language to write scalable 
