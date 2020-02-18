@@ -58,7 +58,7 @@ mac */}
                                 <i class="fa fa-android"></i>
                                 <h3 class="title-sm text-theme-sm text-theme">Robotics</h3>
                                 <p>
-                                   Not only do our robotics help program helps to establish science, technology, engineering and maths concept,
+                                   Not only do our robotics classes help program helps to establish science, technology, engineering and maths concept,
                                    the also work to build on students team  building skills as the work to complete fun challenges.
                                  </p>
                              </div>
