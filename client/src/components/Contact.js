@@ -59,7 +59,7 @@ function Contact(){
                         <p> <i class="icon-pin"></i> EYN Technological Center Opposite Plateau State Assembly</p>
                         <p> <i class="icon-screen-smartphone"></i> +2348107308697</p>
                         <p> <i class="icon-envelope-open"></i>hubci333@gmail.com</p>
-                        <p> <i class="icon-link"></i> www.websitename.com</p>
+                        {/* <p> <i class="icon-link"></i> www.websitename.com</p> */}
                      </div>
                   </div>
                </div>

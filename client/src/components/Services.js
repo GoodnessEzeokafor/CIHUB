@@ -65,7 +65,6 @@ mac */}
                           </div>
                        </div>
                        <div class="row pad-sec-top-sm">
-                          
                           <div class="col-sm-4">
                              <div class="icon-box">
                                 <i class="fa fa-bar-chart-o"></i>
@@ -79,7 +78,7 @@ mac */}
                           <div class="col-sm-4">
                              <div class="icon-box">
                                 {/* <i class="fa fa-cogs"></i> */}
-                                <i class="fas fa-bitcoin"></i>
+                                <i class="fa fa-btc"></i>
                                 {/* <i class="fas fa-coins    "></i> */}
                                 {/* <i class="fa fa-viacoin"></i> */}
                                 <h3 class="title-sm text-theme-sm text-theme">Blockchain</h3>
@@ -91,7 +90,7 @@ mac */}
                           </div>
                           <div class="col-sm-4">
                              <div class="icon-box">
-                                <i class="fa fa-paper-plane"></i>
+                                <i class="fa fa-video-camera"></i>
                                 <h3 class="title-sm text-theme-sm text-theme">Virtual Reality</h3>
                                 <p>
                                     This course desigined for people who are new to virtual reality and want 

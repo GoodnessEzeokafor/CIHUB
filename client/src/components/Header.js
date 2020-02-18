@@ -15,6 +15,9 @@ function Header(){
 
         <li data-target="#carousel-example-generic" data-slide-to="6"></li>
         <li data-target="#carousel-example-generic" data-slide-to="7"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="8"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="9"></li>
+        {/* <li data-target="#carousel-example-generic" data-slide-to="10"></li> */}
         
 
         
@@ -26,9 +29,8 @@ function Header(){
           <img src="images/cihub.jpg" alt="..." />
           {/* <h2 style={{marginTop:"0px"}}>CREATIVITY</h2> */}
           <div class="carousel-caption">
-               <h2 style={{marginTop:"0px"}}>CREATIVITY</h2>
+                {/* <h2 style={{marginTop:"0px"}}>CREATIVITY</h2> */}
           </div>
-          
         </div>
         <div class="item">
           <img src="images/DSC_1447.jpg" alt="..." />
@@ -36,6 +38,21 @@ function Header(){
             {/* ... */}
           </div>
         </div>
+
+        <div class="item">
+          <img src="images/DSC_1664.jpg" alt="..." />
+          <div class="carousel-caption">
+            {/* ... */}
+          </div>
+        </div>
+        
+        <div class="item">
+          <img src="images/DSC_1661.jpg" alt="..." />
+          <div class="carousel-caption">
+            {/* ... */}
+          </div>
+        </div>
+        
         <div class="item">
           <img src="images/DSC_1551.jpg" alt="..." />
           <div class="carousel-caption">
@@ -43,7 +60,7 @@ function Header(){
           </div>
         </div>
         <div class="item">
-          <img src="images/DSC_1423.jpg" alt="..." />
+          <img src="images/DSC_1426.jpg" alt="..." />
           <div class="carousel-caption">
             ...
           </div>
