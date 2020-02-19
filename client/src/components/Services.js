@@ -93,9 +93,9 @@ mac */}
                                 <i class="fa fa-video-camera"></i>
                                 <h3 class="title-sm text-theme-sm text-theme">Virtual Reality</h3>
                                 <p>
-                                    This course desigined for people who are new to virtual reality and want 
+                                    This course is desigined for people who are new to virtual reality and want 
                                     to learn about the principle of VR technology including optics, displays, stereopsis, tracking, 
-                                    and major hardware platforms. You don't need any programming experience to get started
+                                    and major hardware platforms. You don't need any programming experience to get started.
                               </p>
                              </div>
                           </div>

@@ -12,11 +12,11 @@ function Footer(){
 We need values but we focus on algebra
 What if we studied more about Pythagoras and
 not just his theorem
-What if we learned about Eins en and not just
+What if we learned about Einsten and not just
 his work
 What if we learned about compassion and not
 just the compass
-What if we learn about emo onal intelligence
+What if we learn about emotional intelligence
 as well as the spelling quiz
 What if we focused on ATTITUDE as we did on
 the APTITUDE!

@@ -13,12 +13,12 @@ function About(){
                         {/* <div class="header-strips-two"></div> */}
                         <div class="subheading">
                            <p>
-                              Life is the most difficult exam.
+                           Life is the most difficult examination 
                               The history we learn in school doesn’t help us
                               define our future.
                               Most of us know how to add and subtract and
                               not know how to mulply our investments.
-                              We know how to do mulple choice.
+                              We know how to do multiple choice.
                               But we struggle to make decisions.
                               We know how to analyze a poet voice.
                               But we cant express ourselves with precision.
@@ -32,7 +32,7 @@ function About(){
                               where Countries wanted to go.
                               We learn about new languages but not about
                               old cultures.
-                              We learn about only one perspec ve but not
+                              We learn about only one perspective  but not
                               opposing opinions.
                               We learn how to draw but not appreciate art.
                               We were always pushed to get to the end but
@@ -64,7 +64,7 @@ function About(){
                         <h2 class="light-font">Some interesting facts</h2>
                         {/* <div class="header-strips-two"></div> */}
                         <div class="subheading">
-                           <p>According LinkedIn's global list <b>Blockchain</b> is  the most in-demand  skills for 2020</p>
+                           <p>According to LinkedIn's global list <b>Blockchain</b> is  the most in-demand  skills for 2020</p>
                            <p>According to a  report by the McKinsey Global Institute 
                            <b> Artificial intelligence</b> has the potential to incrementally add 16 percent or 
                            around $13 trillion by 2030 to current global economic output
