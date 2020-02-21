@@ -49,7 +49,7 @@ He is a Global Teacher and Leadership  Strategist, an Author, a Life Coach and a
             <div class={classes.teamMember}>
               <figure>
                 <img 
-                src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/lauren-cox.jpg" 
+                src="/images/team/DSC_1541.jpg" 
                 alt="" class="img-responsive" />
                 <figcaption>
                   <p style={{fontSize:"9px"}}>
