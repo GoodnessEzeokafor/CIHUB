@@ -2,12 +2,13 @@ import React, { Component } from 'react';
 import './App.css';
 import Navbar from "./components/Navbar"
 import Header from "./components/Header"
-import Features from "./components/Features"
+// import Features from "./components/Features"
 import About from "./components/About"
 import Services from "./components/Services"
-import Pricing from "./components/Pricing"
+// import Pricing from "./components/Pricing"
 import Contact from "./components/Contact"
 import Footer from "./components/Footer"
+import Team from "./components/Team"
 
 export default class App extends Component {
   render() {
@@ -18,6 +19,7 @@ export default class App extends Component {
 	{/* <Features /> */}
 	<About />
   <Services />
+  <Team />
   {/* <Pricing /> */}
   <Contact />
   <Footer />
