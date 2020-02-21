@@ -99,7 +99,7 @@ Christopher is a businessman who's keen on modern day Technologies.He is the CEO
             <div class={classes.teamMember}>
               <figure>
                 <img 
-                    src="/images/team/WhatsApp_Image_2020-02-20_at_18.jpg" 
+                    src="/images/team/FB_IMG_15822366185769529.jpg" 
                     alt="" class="img-responsive" 
                     height="20px" />
                 <figcaption>
