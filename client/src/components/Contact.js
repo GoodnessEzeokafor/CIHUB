@@ -19,7 +19,10 @@ function Contact(){
                      {/* <!-- Alert message --> */}
                      <div class="alert contact-form__alert" id="form_message" role="alert"></div>
                      {/* <!-- Contact form -->  */}
-                     <form class="contact__form" id="form_sendemail" method="post" enctype="multipart/form-data">
+                     <form  
+                        action="https://formspree.io/mrgkpozr"
+                        method="POST" 
+                        class="contact__form" id="form_sendemail"  enctype="multipart/form-data">
                         <div class="row">
                            {/* <!-- Name --> */}
                            <div class="form-group">
@@ -31,7 +34,7 @@ function Contact(){
                            {/* <!-- Email --> */}
                            <div class="form-group">
                               <label for="email" class="sr-only">Your email address</label>
-                              <input type="email" name="email" class="form-control" id="email" 
+                              <input type="email" name="_replyto" class="form-control" id="email" 
                               placeholder="E-mail" required />
                               <span class="help-block"></span> 
                            </div>

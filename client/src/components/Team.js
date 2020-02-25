@@ -12,7 +12,7 @@ const Team = () => {
     <div class="row text-center">
       <div class="col-md-12" style={{marginTop:"60px"}}>
         <h2>Our Team</h2>
-        <h3 class="caption gray">Meet the people who make awesome stuffs</h3>
+        {/* <h3 class="caption gray">Meet the people who make awesome stuffs</h3> */}
       </div>
       <div class="container">
         <div class="row">
