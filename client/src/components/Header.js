@@ -23,67 +23,67 @@ function Header(){
       {/* <!-- Wrapper for slides --> */}
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img src="images/cihub.jpg" alt="..." />
+          <img src="images/cihub.jpg" className="img-responsive" alt="..." />
           {/* <h2 style={{marginTop:"0px"}}>CREATIVITY</h2> */}
           <div class="carousel-caption">
                 {/* <h2 style={{marginTop:"0px"}}>CREATIVITY</h2> */}
           </div>
         </div>
         <div class="item">
-          <img src="images/DSC_1447.jpg" alt="..." />
+          <img src="images/DSC_1447.jpg" className="img-responsive" alt="..." />
           <div class="carousel-caption">
             {/* ... */}
           </div>
         </div>
 
         <div class="item">
-          <img src="images/DSC_1664.jpg" alt="..." />
+          <img src="images/DSC_1664.jpg" className="img-responsive" alt="..." />
           <div class="carousel-caption">
             {/* ... */}
           </div>
         </div>
         
         <div class="item">
-          <img src="images/DSC_1661.jpg" alt="..." />
+          <img src="images/DSC_1661.jpg" className="img-responsive" alt="..." />
           <div class="carousel-caption">
             {/* ... */}
           </div>
         </div>
         
         <div class="item">
-          <img src="images/DSC_1551.jpg" alt="..." />
+          <img src="images/DSC_1551.jpg" className="img-responsive" alt="..." />
           <div class="carousel-caption">
             ...
           </div>
         </div>
         <div class="item">
-          <img src="images/DSC_1426.jpg" alt="..." />
+          <img src="images/DSC_1426.jpg" className="img-responsive" alt="..." />
           <div class="carousel-caption">
             ...
           </div>
         </div>
         <div class="item">
-          <img src="images/DSC_1633.jpg" alt="..." />
+          <img src="images/DSC_1633.jpg" className="img-responsive" alt="..." />
           <div class="carousel-caption">
             ...
           </div>
         </div>
 
         <div class="item">
-          <img src="images/DSC_1600.jpg" alt="..." />
+          <img src="images/DSC_1600.jpg" className="img-responsive" alt="..." />
           <div class="carousel-caption">
             ...
           </div>
         </div>
         
         <div class="item">
-          <img src="images/DSC_1582.jpg" alt="..." />
+          <img src="images/DSC_1582.jpg" className="img-responsive" alt="..." />
           <div class="carousel-caption">
             ...
           </div>
         </div>
         <div class="item">
-          <img src="images/DSC_1532.jpg" alt="..." />
+          <img src="images/DSC_1532.jpg" className="img-responsive" alt="..." />
           <div class="carousel-caption">
             ...
           </div>

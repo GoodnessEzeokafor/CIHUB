@@ -339,7 +339,20 @@ h2.bg-heading
 @media (max-width: 440px) {
 	.carousel{
 		margin-top: 50px;
-		/* height: 100vh;
-		 */
+		/* height: 50vh; */
+		width: 100%;
+		overflow:hidden;
 	  }
+
+
+	  .carousel .carousel-inner {
+		height:100%;    
 	}
+
+	/* .carousel  img{
+		max-width: 100% !important; 
+		min-width: 300px !important;
+		height: auto !important;
+	} */
+
+}

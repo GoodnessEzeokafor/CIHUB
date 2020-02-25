@@ -7,7 +7,7 @@ function Footer(){
 <div class="footer p-top-90  dark-bg-3">
             <div class="container">
                <div class="col-md-6 col-sm-8 p-bot-50 wow fadeIn" data-wow-delay="0.5s">
-                  <h3 class="site-title">CIHUB</h3>
+                  <h3 class=""><b>C.I. HUB</b></h3>
                   <p>We need character but we focus on caliber
 We need values but we focus on algebra
 What if we studied more about Pythagoras and

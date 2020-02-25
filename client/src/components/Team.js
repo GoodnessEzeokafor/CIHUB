@@ -20,7 +20,7 @@ const Team = () => {
             <div class={classes.teamMember}>
               <figure>
                 <img 
-                    src="/images/team/IMG-20200131-WA0022.jpg" 
+                    src="/images/team/IMG-20200131-WA0022.jpeg" 
                     alt="" class="img-responsive" />
                 <figcaption>
                 <p style={{fontSize:"9px"}}>
@@ -44,12 +44,11 @@ He is a Global Teacher and Leadership  Strategist, an Author, a Life Coach and a
 
 
           </div>
-
           <div class="col-md-4">
             <div class={classes.teamMember}>
               <figure>
                 <img 
-                src="/images/team/DSC_1541.jpg" 
+                src="/images/team/DSC_1541.jpeg" 
                 alt="" class="img-responsive" />
                 <figcaption>
                   <p style={{fontSize:"9px"}}>
@@ -70,12 +69,11 @@ Vanessa holds a Masters Degree in Architecture, she currently resides in the Uni
               <p>Executive Director</p>
             </div>
           </div>
-
           <div class="col-md-4">
             <div class={classes.teamMember}>
               <figure>
                 <img 
-                    src="/images/team/WhatsApp_Image_2020-02-20_at_18.jpg" 
+                    src="/images/team/IMG-20200220-WA0021.jpeg" 
                     alt="" class="img-responsive" 
                     height="20px" />
                 <figcaption>
@@ -95,7 +93,7 @@ Christopher is a businessman who's keen on modern day Technologies.He is the CEO
             </div>
           </div>
 
-          <div class="col-md-4">
+          {/* <div class="col-md-4">
             <div class={classes.teamMember}>
               <figure>
                 <img 
@@ -121,7 +119,7 @@ Christopher is a businessman who's keen on modern day Technologies.He is the CEO
             <div class={classes.teamMember}>
               <figure>
                 <img 
-                    src="http://www.mauritiusdsilva.com/themes/hallooou/assets/images/lauren-cox.jpg" 
+                    src="/images/team/IMG-20200221-WA0006.jpg" 
                     alt="" class="img-responsive" 
                     height="20px" />
                 <figcaption>
@@ -136,12 +134,113 @@ Christopher is a businessman who's keen on modern day Technologies.He is the CEO
                 </figcaption>
               </figure>
               <h4>Eno Gift</h4>
-              <p> CEO</p>
+              <p> Creative Visioner</p>
             </div>
-          </div>
+          </div> */}
 
         </div>
       </div>
+
+
+      <div class="container">
+        <div class="row">
+        <div class="col-md-4">
+            <div class={classes.teamMember}>
+              <figure>
+                <img 
+                    src="/images/team/FB_IMG_15822366185769529.jpeg" 
+                    alt="" class="img-responsive" 
+                    height="20px" />
+                <figcaption>
+                <p style={{fontSize:"9px"}}>
+                A Social Engineer /Developmentalist with a Doctorate in Administration. He also has expertise in Systems and Design Thinking,  Dialectics,  Public Speaking,  Emotional Intelligence, Creative and Performing Arts with a knack in problem solving.
+                James is also a History Enthusiast with special interest in Politics and Economics,  Philosophy and Technology  as they relate to Societal Development. He is presently  the Director of Programs (AfriCulFash)  General secretary  COPAVE and National Media Secretary  (AKBF)                    </p>
+                  <ul>
+                    <li><a href=""><i class="fa fa-facebook fa-2x"></i></a></li>
+                    <li><a href=""><i class="fa fa-twitter fa-2x"></i></a></li>
+                    <li><a href=""><i class="fa fa-linkedin fa-2x"></i></a></li>
+                  </ul>
+                </figcaption>
+              </figure>
+              <h4>James-Heal Pam </h4>
+              <p> General Secretary</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class={classes.teamMember}>
+              <figure>
+                <img 
+                    src="/images/team/IMG-20200221-WA0005.jpeg" 
+                    alt="" class="img-responsive" 
+                    height="20px" />
+                <figcaption>
+                <p style={{fontSize:"9px"}}>
+                An Educational Technologist, an Entrepreneur and a Phycisit. She has expertise  in creative, design, critical and systems thinking.  A Tech enthusiast with regards to Artificial Intelligence, Robotics and Blockchain Technology. Prior to now, Eno served as the director of Accounts at African Cowries Ltd and Director of Operations and Logistics at T. E. F. Projects, an Educational Initiative. 
+
+Eno is the founder of YOUNGPRENUERS, a thriving Initiative whose vision is to create a synergised community of Young Entrepreneurs. YOUNGPRENUERS also inspired the formation of Youngprenuers Club, a platform that gathers young people across all borders, it's targeted aim is to provide a platform for co-operation and individual development.            
+                  </p>
+                  <ul>
+                    <li><a href=""><i class="fa fa-facebook fa-2x"></i></a></li>
+                    <li><a href=""><i class="fa fa-twitter fa-2x"></i></a></li>
+                    <li><a href=""><i class="fa fa-linkedin fa-2x"></i></a></li>
+                  </ul>
+                </figcaption>
+              </figure>
+              <h4>Eno Gift Akpan</h4>
+              <p> Creative Visioner</p>
+            </div>
+          </div>
+
+          {/* <div class="col-md-4">
+            <div class={classes.teamMember}>
+              <figure>
+                <img 
+                    src="/images/team/FB_IMG_15822366185769529.jpg" 
+                    alt="" class="img-responsive" 
+                    height="20px" />
+                <figcaption>
+                <p style={{fontSize:"9px"}}>
+                A Social Engineer /Developmentalist with a Doctorate in Administration. He also has expertise in Systems and Design Thinking,  Dialectics,  Public Speaking,  Emotional Intelligence, Creative and Performing Arts with a knack in problem solving.
+                James is also a History Enthusiast with special interest in Politics and Economics,  Philosophy and Technology  as they relate to Societal Development. He is presently  the Director of Programs (AfriCulFash)  General secretary  COPAVE and National Media Secretary  (AKBF)                    </p>
+                  <ul>
+                    <li><a href=""><i class="fa fa-facebook fa-2x"></i></a></li>
+                    <li><a href=""><i class="fa fa-twitter fa-2x"></i></a></li>
+                    <li><a href=""><i class="fa fa-linkedin fa-2x"></i></a></li>
+                  </ul>
+                </figcaption>
+              </figure>
+              <h4>James-Heal Pam </h4>
+              <p> General Secretary</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class={classes.teamMember}>
+              <figure>
+                <img 
+                    src="/images/team/IMG-20200221-WA0006.jpg" 
+                    alt="" class="img-responsive" 
+                    height="20px" />
+                <figcaption>
+                <p style={{fontSize:"9px"}}>
+                A Social Engineer /Developmentalist with a Doctorate in Administration. He also has expertise in Systems and Design Thinking,  Dialectics,  Public Speaking,  Emotional Intelligence, Creative and Performing Arts with a knack in problem solving.
+                James is also a History Enthusiast with special interest in Politics and Economics,  Philosophy and Technology  as they relate to Societal Development. He is presently  the Director of Programs (AfriCulFash)  General secretary  COPAVE and National Media Secretary  (AKBF)                    </p>
+                  <ul>
+                    <li><a href=""><i class="fa fa-facebook fa-2x"></i></a></li>
+                    <li><a href=""><i class="fa fa-twitter fa-2x"></i></a></li>
+                    <li><a href=""><i class="fa fa-linkedin fa-2x"></i></a></li>
+                  </ul>
+                </figcaption>
+              </figure>
+              <h4>Eno Gift</h4>
+              <p> Creative Visioner</p>
+            </div>
+          </div> */}
+
+        </div>
+      </div>
+
+
+      
     </div>
   </div>
 </section>
