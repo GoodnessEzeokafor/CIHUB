@@ -38,7 +38,7 @@ the APTITUDE!
 
                 </p>
                 <p className="text-center">
-                   <a href="#" style={{marginRight:"15px"}}>
+                   <a target="_blank" href="https://www.facebook.com/youngprenuers/" style={{marginRight:"15px"}}>
                    <i class="fa fa-facebook" aria-hidden="true"></i>
                    </a>
                    <a href="#" style={{marginRight:"15px"}}>

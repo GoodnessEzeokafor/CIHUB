@@ -9,6 +9,7 @@ import Services from "./components/Services"
 import Contact from "./components/Contact"
 import Footer from "./components/Footer"
 import Team from "./components/Team"
+import Gallery from "./components/Gallery"
 
 export default class App extends Component {
   render() {
@@ -19,6 +20,7 @@ export default class App extends Component {
 	{/* <Features /> */}
 	<About />
   <Services />
+  <Gallery />
   <Team />
   {/* <Pricing /> */}
   <Contact />
